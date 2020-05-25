@@ -1,0 +1,58 @@
+body{
+background-color: grey;
+}
+
+h1{
+text-align: center;
+}
+
+.tophead{border: 3px dashed yellow;}
+
+section{
+border: 2px solid yellow;
+background-color: red;
+margin: 10px; }
+
+seection.army>h2{
+float: right;
+border-bottom: 2px solid yellow;
+border-left: 2px solid yellow;
+margin: 0px;
+text-align: right;
+height: 45px;}
+
+.heading{ text-align: right;
+
+margin:0px;}
+
+.iam{ display: inline-block;}
+
+section>p{
+padding: 40px 15px 15px 15px;}
+
+.row{ width:100%;
+height: auto;}
+
+divvv.{position:}
+
+.inhead{background-color: blue;
+border: 2px solid yellow;}
+
+
+
+
+@media(min-width: 992px){.col-lg-4
+{float: left;
+width: 33.33%
+}}
+
+@media(min-width: 768px) and (max-width: 991px){.col-md-6
+{float: left;
+width: 50%
+}}
+
+@media(max-width: 767px){.col-sm-12
+{float: left;
+width: 100%
+}}
+
